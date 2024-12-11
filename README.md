@@ -1,2 +1,2 @@
-# TextAnalysis_FinalProject
-Final project for the course 'Intro to Text Analysis in Python'
+# TextAnalysis_FinalProject  🚀📈😄😭
+This work seeks to explore if high-frequency data from text analysis of national news can help predict the behavior of economic and financial indicators with a smaller lag compared to current indicators. Using a distilled version of the RoBERTa base model, sentiment analysis was performed on 3,000 news articles to calculate their negative, neutral, and positive sentiment scores. A share of negative and positive news was then derived from these scores to analyze their correlation with financial indicators (S&P 500, VIX) and economic indicators (unemployment rate, industrial production, GDP) to evaluate their potential as predictive tools.
